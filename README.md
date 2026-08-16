@@ -1,5 +1,7 @@
 # Multilingual Terminal Welcome
 
+![Multilingual terminal welcome animation](welcomeCycleDemo.gif)
+
 Animate a multilingual welcome whenever a new interactive terminal opens. The
 greetings appear in a random order and settle on English, while the Yafi artwork
 stays centered in the same place below them.
